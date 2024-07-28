@@ -1,0 +1,8 @@
+01,rithish,rithishkanna@student.tce.edu,9876454321,dsa,os
+02,ramesh,ramesh@gmail.com,9876543621,dsa
+05,ravi,ravi123@gmail.com,8901234567,dsa
+07,ram,ram@gmail.com,1234567890,dsa
+08,rakesh,raki@gmail.com,5678901234,dsa,os,networks,dbms
+09,santhosh,santhosh@gmil.com,5678912340,dsa
+10,ragul,ragul@gmail.com,4612358909,dsa,os,logical_thinking
+

@@ -1,0 +1,10 @@
+dsa,The world of DSA,2024-07-28 24:00:00,40,01,rithish,completed,2024-07-28 12:46:53
+dsa,The world of DSA,2024-07-28 24:00:00,40,02,ramesh,completed,2024-07-28 12:46:53
+dsa,The world of DSA,2024-07-28 24:00:00,40,05,ravi,not completed,2024-07-28 12:46:53
+dsa,The world of DSA,2024-07-28 24:00:00,40,07,ram,not completed,2024-07-28 12:46:53
+dsa,The world of DSA,2024-07-28 24:00:00,40,08,rakesh,not completed,2024-07-28 12:46:53
+dsa,The world of DSA,2024-07-28 24:00:00,40,09,santhosh,not completed,2024-07-28 12:46:53
+dsa,The world of DSA,2024-07-28 24:00:00,40,10,ragul,not completed,2024-07-28 12:46:53
+os,The OS Basics,24-08-2024 18:00:00,100,01,rithish,not completed,2024-07-28 16:22:36
+os,The OS Basics,24-08-2024 18:00:00,100,08,rakesh,completed,2024-07-28 16:22:36
+os,The OS Basics,24-08-2024 18:00:00,100,10,ragul,not completed,2024-07-28 16:22:36

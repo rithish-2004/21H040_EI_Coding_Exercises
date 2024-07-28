@@ -1,0 +1,2 @@
+Soil Moisture: Dry
+Nutrient Level: Normal
