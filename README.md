@@ -49,13 +49,13 @@
 
 ### Description
 
-The Virtual Classroom Manager is a comprehensive Java-based application developed to streamline the management of classrooms, students, and assignments. It offers functionalities such as adding and viewing classrooms, enrolling students in classrooms, scheduling assignments, and displaying assignment details. The application is built following established design patterns and SOLID principles, ensuring high maintainability and ease of debugging through effective logging mechanisms. By preventing duplication of classrooms and assigning unique IDs to students, the Virtual Classroom Manager enhances organization and efficiency in educational environments.
+The Virtual Classroom Manager is a comprehensive Java-based application developed to streamline the management of classrooms, students, and assignments. It offers functionalities such as adding and viewing classrooms, enrolling students in classrooms, scheduling assignments, and displaying assignment details. The application is built following established design patterns and ensuring high maintainability and ease of debugging through effective logging mechanisms. By preventing duplication of classrooms and assigning unique IDs to students, the Virtual Classroom Manager enhances organization and efficiency in educational environments.
 
 ### Sample Input and Outputs
 
 ![Sample1](./images/exercise2a.png)
 
-![Sample2](./images/exercise2b.png)
+![Sample2](./images/exersice2b.png)
 
 ![Sample3](./images/exercise2c.png)
 
