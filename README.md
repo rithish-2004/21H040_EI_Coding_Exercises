@@ -59,4 +59,17 @@ The Virtual Classroom Manager is a comprehensive Java-based application develope
 
 ![Sample3](./images/exercise2c.png)
 
+### Running the Project
+
+To run this project, follow these steps:
+
+1. **Open Your Java IDE**: Use an IDE such as IntelliJ IDEA, Eclipse, or NetBeans.
+
+2. **Locate the Main File**: 
+   - Open the `Main` file within each project directory.
+
+3. **Run the Project**: 
+   - Click the "Run" button in your IDE to execute the program.
+
+By following these steps, you can easily make changes to specific files and run the project without needing to manually navigate through directories or use command-line commands.
 
